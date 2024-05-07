@@ -11,6 +11,6 @@ public class Pruebas {
     
     @GetMapping("/seve")
     public String metodoPrueba(){
-        return "Hola si jalo";
+        return "Hola si jalo yes";
     }
 }
